@@ -1,5 +1,5 @@
 ## java
-- [通过lombok带你读透Builder构建器](https://github.com/simonQi0217/java-working-notes/blob/master/java/通过lombok带你读透Builder构建器.md)
+- [通过lombok带你读透Builder构建器](https://github.com/simonQi0217/java-working-notes/blob/master/javase/通过lombok带你读透Builder构建器.md)
 
 ```
 作者：simon Qi
